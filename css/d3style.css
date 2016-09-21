@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Asap:400);
+
+h1.chart
+{color:#fff;
+	font: 200 1.75em/1.5em "Asap", sans-serif; text-align:center
+	};
+
+h3.chart {
+	color:#fff;
+	font: 100 1.75em/1.5em "Asap", sans-serif; text-align:center
+	};
+
+body.chart {
+	background-color: #14161f;
+}
