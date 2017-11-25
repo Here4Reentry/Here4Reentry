@@ -1,0 +1,34 @@
+{
+  "name": "Here-4-Reentry",
+  "version": "0.0.1",
+  "description": "A toolkit for returning citizens.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Here4Reentry/Here4Reentry"
+  },
+  "keywords": [
+    "reentry",
+    "static",
+    "prison",
+    "site"
+  ],
+  "author": "jocures",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdarse/heroku-static-site/issues"
+  },
+  "homepage": "https://www.Here4Reentry.com",
+  "dependencies": {
+    "http-server": "^0.7.4"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "devDependencies": {
+    "app.json": "^1.2.1"
+  }
+}

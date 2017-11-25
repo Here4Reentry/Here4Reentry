@@ -55,9 +55,4 @@ This is the Survey we utilized to evaluate services. You can be a part of our wo
 
   This Project represents the efforts of many months of study and co-creation. We hope that it serves as a jumping off point for other cities! **All** of the technology used is free and open source. So if you believe that this will serve your community please feel free to use any or all of it!
 
-
-  If you are interested in launching this for your community feel free to do so! Here is a great place to start:
-
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
   Special thanks to the project's funder: [*Living Cities Foundation | City Accelerator Program*](https://www.livingcities.org/work/city-accelerator), our non-profit partner [*Safe and Sound*](http://safeandsound.org/psc/) and the [*Baltimore City Mayor's Office*](http://mocj.baltimorecity.gov/) this project became a reality. Most importantly the Returning Citizen members and community activists that ideated, created, and implemented the **entire** project!
